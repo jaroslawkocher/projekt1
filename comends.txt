@@ -1,3 +1,7 @@
 git checkout projekt -->> prze³¹czenie siê na inn¹ ga³¹Ÿ
+git checkout -b NAZWA_BRANCH -->> tworzenie nowej ga³êzi
+git branch -->> sprawdzenie w której ga³êzi jesteœmy
 git status -->> sprawdza które pliki s¹ w obecnej ga³êzi
 git add NAZWA_PLIKU.ROZSZERZENIE -->>
+git commit -m "treœæ wiadomoœci" -->> zapisuje pliki gotowe do wypchniêcia na serwer z wiadomoœci¹
+git push origin NAZWA_BRANCH -->> wysy³a pliki na serwerze w danaj ga³êzi
