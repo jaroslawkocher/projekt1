@@ -1,0 +1,3 @@
+git checkout projekt -->> prze³¹czenie siê na inn¹ ga³¹Ÿ
+git status -->> sprawdza które pliki s¹ w obecnej ga³êzi
+git add NAZWA_PLIKU.ROZSZERZENIE -->>
