@@ -5,3 +5,4 @@ git status -->> sprawdza które pliki s¹ w obecnej ga³êzi
 git add NAZWA_PLIKU.ROZSZERZENIE -->>
 git commit -m "treœæ wiadomoœci" -->> zapisuje pliki gotowe do wypchniêcia na serwer z wiadomoœci¹
 git push origin NAZWA_BRANCH -->> wysy³a pliki na serwerze w danaj ga³êzi
+git pull origin master -->> wysy³a pliki na serwerze do ga³êzi master(³¹czy ga³êzie)
